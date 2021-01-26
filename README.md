@@ -8,7 +8,10 @@ It is created with Expo and React/React Native. It is an app that can be compile
 - The user inputs either higher or lower so that the phone can guess another number
 - When the phone guesses the correct number, the app displays how many tries it took and what the final number was
 
+## Credits
+This app is created following Academind's React Native Course. All work provided here is a copy of the coursework, but has been replicated by myself with the intention of being a learning project. You can follow the course as well here: https://www.udemy.com/course/react-native-the-practical-guide
+
 It's simple and easy. Screenshots:
 ![Screenshot of Main Screen](/screenshots/1.jpg?raw=true)
-![Screenshot of Game Screen](/screenshots/3.jpg?raw=true)
-![Screenshot of Game Over Screen](/screenshots/2.jpg?raw=true)
+![Screenshot of Game Over Screen](/screenshots/3.jpg?raw=true)
+![Screenshot of Game Screen](/screenshots/2.jpg?raw=true)
