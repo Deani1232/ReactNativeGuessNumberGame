@@ -9,3 +9,6 @@ It is created with Expo and React/React Native. It is an app that can be compile
 - When the phone guesses the correct number, the app displays how many tries it took and what the final number was
 
 It's simple and easy. Screenshots:
+![Screenshot of Main Screen](/screenshots/1.jpg?raw=true)
+![Screenshot of Game Screen](/screenshots/3.jpg?raw=true)
+![Screenshot of Game Over Screen](/screenshots/2.jpg?raw=true)
